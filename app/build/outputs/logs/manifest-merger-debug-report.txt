@@ -1,0 +1,186 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\33b88faef0c1b81ce758cb4374d541d1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e29fd06cb58685ceb7d91bb1857d95ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\09f3a80b96ffcf3ddcd245c7b890a6bb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\0352f85f7c39500ffd4cb2a29adb8bf6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\442449954e79f68c2894914b8dfbe5c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b50fb52697bf3deb8e9cc71f3f8c597d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8ae8a7fb5daee4071993bdadc592a6e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ea6407cbb943c9b950e9d3bc7e04bbb1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\67da7137767225637b43103e308762b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\a2cd2d3e231af6d5e83f7fc97d3f0634\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\b328ba7aec0bd47a18bd8856fb18b9f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\2ee889d09aad69699c84aff9d389d0e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3c7f332312e2e4715ae864915fa7d360\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f9bf363ec8e486a46c48d8ae5850af2e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9d1a6c0bb6b0401f98e665a189e168df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\44f4021471847145c137589f5c70441a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\5ecf39ddb8b39821ddbf2c67e620a71f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f7ec04ca008a01611579725532160f9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\40c6e996e82bc6864bd040778519691a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\96fb38594a43332d308eec95d7ff4745\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e7decc9486f5c9016999efa9b80395f1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\825a0ac2ea731cbd16bebd819e2ddd31\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\05834b7b6147bee712f5be6bce406409\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\000ef2226b779dd31411c6735aff839f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a20c0b4c7a2396031ae1523b49f3e1e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\77d031101d26d52735fed55822f48c64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ca9413b9ee61eca2e0e0a6abf841013e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\aa58b1d4ef3c9de00c03529c541a891b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d98cd7f5c2071394d5413629bd8fc19b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a71627ff2c7576a3b6a5f92df6baee9f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\406997de40e2710568c153eaff34f6c5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\84a25c02f89d2462799a6e93fce3458a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4590529bd08e8a4bcc575d0140a1647e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:8:5-25:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\33b88faef0c1b81ce758cb4374d541d1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\33b88faef0c1b81ce758cb4374d541d1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\09f3a80b96ffcf3ddcd245c7b890a6bb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\09f3a80b96ffcf3ddcd245c7b890a6bb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e7decc9486f5c9016999efa9b80395f1\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e7decc9486f5c9016999efa9b80395f1\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\825a0ac2ea731cbd16bebd819e2ddd31\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\825a0ac2ea731cbd16bebd819e2ddd31\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e7decc9486f5c9016999efa9b80395f1\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:12:9-52
+	android:icon
+		ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:10:9-47
+	android:allowBackup
+		ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.nescara.myapplication.activities.MainActivity
+ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:17:13-57
+	android:theme
+		ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:16:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\33b88faef0c1b81ce758cb4374d541d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\33b88faef0c1b81ce758cb4374d541d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e29fd06cb58685ceb7d91bb1857d95ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\e29fd06cb58685ceb7d91bb1857d95ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\09f3a80b96ffcf3ddcd245c7b890a6bb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\09f3a80b96ffcf3ddcd245c7b890a6bb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\0352f85f7c39500ffd4cb2a29adb8bf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\0352f85f7c39500ffd4cb2a29adb8bf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\442449954e79f68c2894914b8dfbe5c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\442449954e79f68c2894914b8dfbe5c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b50fb52697bf3deb8e9cc71f3f8c597d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b50fb52697bf3deb8e9cc71f3f8c597d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8ae8a7fb5daee4071993bdadc592a6e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\8ae8a7fb5daee4071993bdadc592a6e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ea6407cbb943c9b950e9d3bc7e04bbb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\ea6407cbb943c9b950e9d3bc7e04bbb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\67da7137767225637b43103e308762b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\67da7137767225637b43103e308762b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\a2cd2d3e231af6d5e83f7fc97d3f0634\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\a2cd2d3e231af6d5e83f7fc97d3f0634\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\b328ba7aec0bd47a18bd8856fb18b9f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\b328ba7aec0bd47a18bd8856fb18b9f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\2ee889d09aad69699c84aff9d389d0e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\2ee889d09aad69699c84aff9d389d0e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3c7f332312e2e4715ae864915fa7d360\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3c7f332312e2e4715ae864915fa7d360\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f9bf363ec8e486a46c48d8ae5850af2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\f9bf363ec8e486a46c48d8ae5850af2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9d1a6c0bb6b0401f98e665a189e168df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9d1a6c0bb6b0401f98e665a189e168df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\44f4021471847145c137589f5c70441a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\44f4021471847145c137589f5c70441a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\5ecf39ddb8b39821ddbf2c67e620a71f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\5ecf39ddb8b39821ddbf2c67e620a71f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f7ec04ca008a01611579725532160f9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f7ec04ca008a01611579725532160f9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\40c6e996e82bc6864bd040778519691a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\40c6e996e82bc6864bd040778519691a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\96fb38594a43332d308eec95d7ff4745\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\96fb38594a43332d308eec95d7ff4745\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e7decc9486f5c9016999efa9b80395f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e7decc9486f5c9016999efa9b80395f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\825a0ac2ea731cbd16bebd819e2ddd31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\825a0ac2ea731cbd16bebd819e2ddd31\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\05834b7b6147bee712f5be6bce406409\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\05834b7b6147bee712f5be6bce406409\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\000ef2226b779dd31411c6735aff839f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\000ef2226b779dd31411c6735aff839f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a20c0b4c7a2396031ae1523b49f3e1e1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\a20c0b4c7a2396031ae1523b49f3e1e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\77d031101d26d52735fed55822f48c64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\77d031101d26d52735fed55822f48c64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ca9413b9ee61eca2e0e0a6abf841013e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ca9413b9ee61eca2e0e0a6abf841013e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\aa58b1d4ef3c9de00c03529c541a891b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\aa58b1d4ef3c9de00c03529c541a891b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d98cd7f5c2071394d5413629bd8fc19b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d98cd7f5c2071394d5413629bd8fc19b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a71627ff2c7576a3b6a5f92df6baee9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a71627ff2c7576a3b6a5f92df6baee9f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\406997de40e2710568c153eaff34f6c5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\406997de40e2710568c153eaff34f6c5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\84a25c02f89d2462799a6e93fce3458a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\84a25c02f89d2462799a6e93fce3458a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4590529bd08e8a4bcc575d0140a1647e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Nescara\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4590529bd08e8a4bcc575d0140a1647e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nescara\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml

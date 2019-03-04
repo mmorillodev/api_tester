@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">API Tester</string>
+    <string name="methods_prompt">Methods</string>
+    <string name="clear">Clear</string>
+    <string name="execute_request">Execute request</string>
+    <string name="add_header">+</string>
+    <string name="processing">Processing...</string>
+    <string name="btnCopy">Copy to clipboard</string>
+    <string name="apagar_historico">Clear History</string>
+    <string name="url">url</string>
+    <string name="parameters">Parameters:</string>
+    <string name="headers">Headers: </string>
+    <string name="method">Method:</string>
+    <string-array name="methods">
+        <item>GET</item>
+        <item>POST</item>
+        <item>DELETE</item>
+        <item>PUT</item>
+    </string-array>
+    <string name="title_activity_main2">API Tester</string>
+    <string name="tab_text_1">Request</string>
+    <string name="tab_text_2">History</string>
+    <string name="no_internet">No internet connection!</string>
+    <string name="no_url">You must type the request URL!</string>
+    <string name="no_data">No data returned from</string>
+    <string name="copied">Copied to clipboard</string>
+    <string name="headersTxt">Headers</string>
+    <string name="header_1">Header 1</string>
+    <string name="urlText">URL</string>
+    <string name="parametersTxt">Parameters</string>
+    <string name="parameter_1">Parameter 1</string>
+    <string name="plus_text">+</string>
+    <string name="less_text">-</string>
+    <string name="lessTxt">-</string>
+    <string name="redo_request">Redo request</string>
+    <string name="delete">Delete</string>
+</resources>

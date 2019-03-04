@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView tools:context=".fragments.ReqFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+        <LinearLayout
+            android:id="@+id/root_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/editURL"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="7"
+                    android:layout_marginTop="9dp"
+                    android:layout_marginStart="10dp"
+                    android:ems="10"
+                    android:autofillHints="http://"
+                    android:hint="@string/urlText"
+                    android:inputType="textUri" />
+
+                <Spinner
+                    android:id="@+id/methods"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="10dp"
+                    android:entries="@array/methods"
+                    android:prompt="@string/methods_prompt"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:layout_marginStart="10dp"
+                    android:text="@string/parametersTxt"/>
+
+                <EditText
+                    android:id="@+id/editParam1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="4"
+                    android:hint="@string/parameter_1"
+                    android:inputType="text"
+                    android:importantForAutofill="no"
+                    android:layout_marginStart="2dp"/>
+
+                <Button
+                    android:id="@+id/addParam"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:text="@string/plus_text"
+                    android:background="@drawable/btn"/>
+
+                <Button
+                    android:id="@+id/remParam"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:text="@string/less_text"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:background="@drawable/btn"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/aditionalParams"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="5dp"
+                android:orientation="vertical">
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:layout_marginStart="10dp"
+                    android:importantForAutofill="no"
+                    android:text="@string/headersTxt"/>
+
+                <EditText
+                    android:id="@+id/editParam1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="4"
+                    android:layout_marginStart="20dp"
+                    android:hint="@string/header_1"
+                    android:importantForAutofill="no"
+                    android:inputType="text" />
+
+                <Button
+                    android:id="@+id/addHeader"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:text="@string/add_header"
+                    android:background="@drawable/btn"/>
+                <Button
+                    android:id="@+id/remHeader"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:text="@string/less_text"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginEnd="5dp"
+                    android:background="@drawable/btn"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/aditionalHeaders"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center_horizontal">
+
+                <Button
+                    android:id="@+id/btnExec"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:text="@string/execute_request" />
+                <Button
+                    android:id="@+id/btnClear"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:text="@string/clear"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/txtStatus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                android:paddingTop="0dp" />
+        </LinearLayout>
+    </ScrollView>
